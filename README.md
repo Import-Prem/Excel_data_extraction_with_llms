@@ -1,17 +1,5 @@
-# Textbase
+# Excel data extraction with Textbase
 
-✨ Textbase is a framework for building chatbots using NLP and ML. ✨
-
-Just implement the `on_message` function in `main.py` and Textbase will take care of the rest :)
-
-Since it is just Python you can use whatever models, libraries, vector databases and APIs you want.
-
-_Coming soon:_
-
-- [ ] PyPI package
-- [ ] SMS integration
-- [ ] Easy web deployment via `textbase deploy`
-- [ ] Native integration of other models (Claude, Llama, ...)
 
 ## Installation
 
@@ -38,6 +26,7 @@ Now go to [http://localhost:4000](http://localhost:4000) and start chatting with
 
 _Simpler version using PyPI package and CLI coming soon!_
 
-## Contributions
+Here is an example of the app
 
-Contributions are welcome! Please open an issue or a pull request.
+![testing](https://github.com/Import-Prem/Excel_data_extraction_with_llms/assets/84090854/6b1a32d4-13c5-434a-a131-2780747549a6)
+
