@@ -40,7 +40,7 @@
 Clone the repository and install the dependencies using [Poetry](https://python-poetry.org/) (you might have to [install Poetry](https://python-poetry.org/docs/#installation) first).
 
 ```bash
-git clone https://github.com/cofactoryai/textbase
+git clone https://github.com/Import-Prem/Excel_data_extraction_with_llms.git
 cd textbase
 poetry shell
 poetry install
