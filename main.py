@@ -36,7 +36,8 @@ models.OpenAI.api_key = "PASTE_OPENAI_KEY"
 # or from environment variable:
 # models.OpenAI.api_key = os.getenv("OPENAI_API_KEY")
 
-file_path = r"C:\Projects\textbase\textbase\elementary_2015_16.csv"
+file_path = r"elementary_2015_16.csv"  # Change the file path
+
 if file_path.lower().endswith(".xlsx") or file_path.lower().endswith(".xls"):
     data = pd.read_excel(file_path, engine='openpyxl')
 elif file_path.lower().endswith(".csv"):
